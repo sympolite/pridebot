@@ -251,7 +251,7 @@ try:
     os.makedirs(os.path.join(os.getcwd(),"temp"))
 except:
     print("Temp folder exists!")
-if os.path.isdir(os.path.join(os.getcwd(),"flags")
+if os.path.isdir(os.path.join(os.getcwd(),"flags")):
     pridebot.run(client_token)
 else:
     print("FATAL ERROR: /flags folder is missing!")
