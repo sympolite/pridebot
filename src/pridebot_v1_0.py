@@ -181,6 +181,7 @@ async def flags():
 
 @pridebot.command()
 async def prideflag(arg):
+    arg = arg.lower() 
     #temporay copy of the message
     _msg = msg
 
