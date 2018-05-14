@@ -1,0 +1,20 @@
+FLAGS:
+(Flags are listed as "Flag: list, of, keywords")
+
+Lesbian:   lesbian, les, lez
+Gay:       gay
+Bisexual:  bisexual, bi
+Pansexual: pansexual, pan
+Asexual:   asexual, ace
+
+Transgender: trans, transgender
+Agender:     agender
+Genderqueer: genderqueer, gq
+Nonbinary:   nonbinary, nb, enby
+
+Bear:  bear
+Twink: twink
+Butch: butch
+Femme: femme 
+
+(Femme flag designed by http://noodle.tumblr.com)
