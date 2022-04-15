@@ -1,7 +1,7 @@
 # pridebot
 ### version 1.1
 A Discord bot that generates pride flag icons!
-Built by [sympolite](http://sympolite.tumblr.com)
+Built by tianders295
 
 ## Requirements:
 * Python 3.6.0 or higher.
